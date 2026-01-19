@@ -7,3 +7,6 @@ The registration feature allows new users to create an account on the platform. 
 This task the forgot password feature allows users to recover access to their accounts if they forget their login credentials. Users are required to enter their registered phone number or email address, after which the system sends an OTP for verification. Once the OTP is successfully validated, users can set a new password and confirm it. This process ensures account recovery while maintaining security.
 **Status: Implemented**
 
+## T-14: Implement User Login Page echo The product listing feature allows farmers to add agricultural products to the platform. Farmers can enter product details such as name, category, price, available quantity, and upload product images. Once submitted, the product becomes visible to consumers and businesses after admin approval. This feature enables farmers to showcase their products directly to buyers.
+**Status: Implemented**
+
