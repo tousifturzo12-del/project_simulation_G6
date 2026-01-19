@@ -10,3 +10,7 @@ This task the forgot password feature allows users to recover access to their ac
 ## T-14: Implement User Login Page echo The product listing feature allows farmers to add agricultural products to the platform. Farmers can enter product details such as name, category, price, available quantity, and upload product images. Once submitted, the product becomes visible to consumers and businesses after admin approval. This feature enables farmers to showcase their products directly to buyers.
 **Status: Implemented**
 
+## T-14: Implement User Login Page echo This task involves creating a login form component with email and passw ord fields, including validation and error handling.
+## F-5: Implemented F5: Product Update & Inventory Control echo This feature allows farmers to manage and update their listed products. Farmers can modify product details, adjust prices, apply discounts, and update stock quantities in real time. Accurate inventory control ensures that customers see up-to-date product availability, reducing order issues. 
+**Status: Implemented**
+
